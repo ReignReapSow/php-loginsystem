@@ -1,0 +1,11 @@
+# IGNORED FOLDERS
+# ----------------
+.idea/
+.vscode/
+
+
+
+# IGNORED FILES
+# --------------
+db-backup.sql
+description
